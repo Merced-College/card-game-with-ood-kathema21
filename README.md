@@ -11,11 +11,13 @@ total. The goal is to reach 21 exactly. You begin with three cards and draw afte
 
 This has added:
   Card Class
+  
     - Mutators for all four variables.
     - Assessors for all four variables.
     - Other methods as necessary (toString, etc.)
-
+    
   Game logic
+    
     - Support game loop.
     - Win/bust criteria.
     - The choice between one or both cards via new functions.
