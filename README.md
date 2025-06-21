@@ -10,6 +10,7 @@ total. The goal is to reach 21 exactly. You begin with three cards and draw afte
 # Additions
 
 This has added:
+
   Card Class
   
     - Mutators for all four variables.
